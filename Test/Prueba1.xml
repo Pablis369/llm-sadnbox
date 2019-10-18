@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listado_restaurantes><![CDATA[]]>
+    <tipos_de_comida>
+        <tipo_comida id="1" name="Mejicano"></tipo_comida>
+        <tipo_comida id="2" name="Japones"></tipo_comida>
+        <tipo_comida id="3" name="Italiano"></tipo_comida>
+        <tipo_comida id="4" name="Especialista en Hamburguesa"></tipo_comida>
+    </tipos_de_comida>
+
+    <restaurantes>
+        <restaurante id="1" name="Restaurante ANDALE"></restaurante>
+        <restaurante id="2" name="Restaurante IL PADRINO"></restaurante>
+    </restaurantes>
+
+
+</listado_restaurantes>
