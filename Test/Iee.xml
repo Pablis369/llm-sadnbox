@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spoty>
+    
+    <genero id="POP"/>
+    <genero id="JAZZ"/>
+    <genero id="PODCAST"/>
+
+    <artista id="1" name="Paco"/>
+    <artista id="2" name="Carla"/>
+
+    <canciones id_cancion="1" id_genero="POP" id_artista="1">LA SOLEDAD</canciones>
+
+</spoty>
