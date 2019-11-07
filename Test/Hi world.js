@@ -1,5 +1,1 @@
-{
-    "key"
-:
-    "value"
-}
+console.log("hi there!");

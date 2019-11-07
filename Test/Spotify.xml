@@ -3,16 +3,16 @@
     <Archivo>
         <tipo file=".mp3">Music</tipo>
     </Archivo>
-    <Artista>
-        <Ne-yo id="ne-yo"/>
-        <Martin_Garrix id="martin_garrix"/>
-        <AnuelAA id="anuelaa"/>
-    </Artista>
+    <Artistas>
+        <artista name="Ne-yo" id="ne-yo"/>
+        <artista name="Martin_Garrix" id="martin_garrix"/>
+        <artista name="AnuelAA" id="anuelaa"/>
+    </Artistas>
     <Generos>
-        <POP id="pop"/>
-        <ROCK id="rock"/>
-        <DANCE id="dance"/>
-        <REGGAETON id="reggaeton"/>
+        <genero name="POP" id="pop"/>
+        <genero name="ROCK" id="rock"/>
+        <genero name="DANCE" id="dance"/>
+        <genero name="REGGAETON" id="reggaeton"/>
     </Generos>
     <Canciones>
         <cancion id="so_sick_ne-yo" idArtista="ne-yo" idGenero="pop">SoSick.mp3</cancion>
