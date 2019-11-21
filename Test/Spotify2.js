@@ -1,5 +1,10 @@
 {
-    Artistas:[{name:
+    Generos:[{name: "POP",
+        Canciones:[
+            {
+
+            }
+        ]
 
     }
 
