@@ -1,4 +1,16 @@
-key:    value
-list:
-  - val1
-  - val2
+'Artistas':
+  -'artista1':
+    'name':'Ne-yo'
+    'id':'ne-yo'
+  -'artista2':
+      'name':'Martin_Garrix'
+      'id':'martin_garrix'
+  -'artista3':
+      'name':'AnuelAA'
+      'id': 'anuelaa'
+'Canciones':
+    -'cancion1':
+        'id':'so_sick_ne-yo'
+        'idArtista':'ne-yo'
+        'idGenero':'pop'
+        'name':'SoSick.mp3'
