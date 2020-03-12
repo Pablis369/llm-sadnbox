@@ -1,4 +1,5 @@
-function epizzaApp() {
+function
+epizzaApp() {
     fetch("src/Data/epizza-ingredients.json").then(data => data.json()).then(data => {
        renderMenu(data);
     });
